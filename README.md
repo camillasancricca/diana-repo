@@ -14,7 +14,7 @@ This repository contains:
 
 ## Components
 
-The knowledge base system is composed of 3 predictors and an unreliability score:
+The knowledge base (kb) system is composed of 3 predictors and an unreliability score:
 
 1. **kb-ranking**: it contains the information for suggesting the order in which the DQ dimensions should be improved, the trained regression models, their performance and evaluation metrics.
    - Folder: KB_Dimensions
@@ -27,7 +27,7 @@ The knowledge base system is composed of 3 predictors and an unreliability score
 
 The kb folders listed above contains:
 
-- kb: the kb content
+- kb: the kb content including datasets, data profiles, and the results of the kb enrichment process
 - notebooks/scripts: the code for traning and testing the kb predictor
 - notebooks: for visualizing and analyzing the main results on the computed performance and evaluation metrics of the predictors
 - results: the experiments results (performance and evaluation metrics after training the models)
