@@ -1,0 +1,1 @@
+dimension_1,dimension_2,imp_1,imp_2,imp_3,od_1,imp_col_1,imp_col_2,imp_col_3,quality,DecisionTree_dirty,LogisticRegression_dirty,KNN_dirty,RandomForest_dirty,AdaBoost_dirty,SVC_dirty,DecisionTree_1,LogisticRegression_1,KNN_1,RandomForest_1,AdaBoost_1,SVC_1,DecisionTree_2,LogisticRegression_2,KNN_2,RandomForest_2,AdaBoost_2,SVC_2
