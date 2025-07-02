@@ -1,0 +1,9 @@
+name,n_tuples,n_attributes,p_num_var,p_cat_var,p_duplication
+letterFS.csv,2001,5,0.8,0.2,0.33
+frogsFS.csv,2878,5,0.8,0.2,0.0
+acusticFS.csv,400,5,0.8,0.2,0.03
+cancerFS.csv,683,5,1.0,0.0,0.61
+oilFS.csv,937,5,1.0,0.0,0.0
+qualityredFS.csv,1599,5,1.0,0.0,0.15
+ecoliFS.csv,336,5,0.8,0.2,0.0
+qualitywhiteFS.csv,4898,5,1.0,0.0,0.2
